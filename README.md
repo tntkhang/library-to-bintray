@@ -1,5 +1,5 @@
 # library-to-bintray
-## The guide to build and Android Library, push it to Bintray and then JCenter and sent to Android Arsenal.
+## The guide to building an Android Library, push it to Bintray and then JCenter and sent to Android Arsenal..
 
 
 ## Build and upload library to Bintray
@@ -21,11 +21,11 @@ classpath 'com.github.dcendents:android-maven-gradle-plugin:1.5'
 ```
 
 - Step 4:
-In the build.gradle of app level Add these line below 
+In the build.gradle of the library below 
 ```
 apply plugin "com.android.library"
 ```
-
+add those lines
 ```
 ext {
     bintrayRepo = 'maven'
