@@ -48,9 +48,9 @@ ext {
     developerName = 'KhangTran' // Replace by your name
     developerEmail = 'tntkhang@gmail.com' // Replace by your email
 
-    licenseName = 'The Apache Software License, Version 2.0'
-    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
-    allLicenses = ["Apache-2.0"]
+    licenseName = 'The MIT License'
+    licenseUrl = 'https://opensource.org/licenses/MIT'
+    allLicenses = ["MIT"]
 }
 ```
 
